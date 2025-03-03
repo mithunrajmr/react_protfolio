@@ -1,27 +1,3 @@
-// import { FaGithub, FaInstagram, FaLinkedin, FaTwitter, FaYoutube } from "react-icons/fa"
-// import logo from "../assets/2mrlogo.webp"
-// import { FaSquareXTwitter } from "react-icons/fa6"
-
-// const Navbar = () => {
-//   return (
-//     <nav className="flex item-center justify-between py-6">
-//         <div className="flex flex-shrink-0 items-center">
-//             <a href="/" aria-label="Home">
-//             <img src={logo} className="mx-2" width={50} height={33} alt="Logo"/>
-//             </a>
-//         </div>
-//         <div className="m-8 flex items-center justify-center gap-4 text-2xl">
-//             <a href="https://www.linkedin.com/in/mithunrajmr" target="_blank" rel="noopener noreference" aria-label="LinkedIn"><FaLinkedin /></a>
-//             <a href="https://github.com/mithunrajmr" target="_blank" rel="noopener noreference" aria-label="GitHub"><FaGithub /></a>
-//             <a href="https://www.instagram.com/mithunraj._.07/" target="_blank" rel="noopener noreference" aria-label="Instagram"><FaInstagram /></a>
-//             <a href="https://x.com/2mrmithunraj" target="_blank" rel="noopener noreference" aria-label="Twitter"><FaSquareXTwitter /></a>
-//         </div>
-//     </nav>
-//   )
-// }
-
-// export default Navbar
-
 import { FaGithub, FaInstagram, FaLinkedin, FaTwitter, FaYoutube } from "react-icons/fa";
 // import logo from "../assets/fullhd2mredit.jpg";
 import logo from "../assets/fullhd2mrlogo.png"
@@ -73,15 +49,15 @@ const Navbar = () => {
         >
           <FaSquareXTwitter />
         </a>
-        <a
+        {/* <a
           href="https://www.youtube.com/@alogoyt"
           target="_blank"
           rel="noopener noreferrer"
-          aria-label="Twitter"
+          aria-label="Youtube"
           className="transform hover:scale-110 transition-transform duration-200"
         >
           <IoLogoYoutube />
-        </a>
+        </a> */}
       </div>
     </nav>
   );

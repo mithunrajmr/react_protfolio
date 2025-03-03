@@ -6,7 +6,7 @@ import project3 from "../assets/projects/proj-3.png";
 import project4 from "../assets/projects/project-4.webp";
 
 // Hero Content
-export const HERO_CONTENT = `I am an aspiring software developer and engineering student skilled in Python, Java, and web development. With experience in Flask, AngularJS, and SQL databases, I focus on creating efficient, user-friendly web applications. My goal is to continuously innovate and solve real-world problems through technology.`;
+export const HERO_CONTENT = `I am an aspiring software developer and engineering student skilled in Python, Java, and web development. With experience in Flask, React JS, and SQL databases, I focus on creating efficient, user-friendly web applications. My goal is to continuously innovate and solve real-world problems through technology.`;
 
 // About Text
 export const ABOUT_TEXT = `I am an aspiring software developer with a strong foundation in programming and web development. Proficient in Python, Java, and database management using Oracle SQL, I have developed projects showcasing my skills in Flask, AngularJS, and full-stack development. Alongside coding, I have a knack for video editing and learning new technologies. My journey in technology stems from a passion for solving problems and building impactful solutions.`;
