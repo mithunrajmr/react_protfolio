@@ -14,7 +14,7 @@ export const ABOUT_TEXT = `I am an aspiring software developer with a strong fou
 // Experiences
 export const EXPERIENCES = [
   {
-    year: "2024 - Present",
+    year: "2024 - 2025",
     role: "Software Development Intern",
     company: "AuMDS (Au Multidimensional Solutions Pvt. Ltd.)",
     description: `Collaborating on the development of dynamic web applications using Python for backend logic and React for building responsive user interfaces. Utilizing Tailwind CSS to design modern and efficient layouts, while also integrating WordPress for content management and website optimization.`,
